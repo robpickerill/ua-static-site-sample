@@ -1,0 +1,4 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'UA92 Sample Blog'
+theme = "ananke"

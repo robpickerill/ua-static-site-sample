@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UA92 Sample Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on UA92 Sample Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jun 2022 10:05:34 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Thu, 23 Jun 2022 10:05:34 +0100</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam feugiat ligula aliquam, ullamcorper magna sit amet, convallis lacus. Aliquam euismod mi et lectus mattis, eget accumsan est convallis. Morbi vitae rhoncus purus. Pellentesque ut dignissim dolor, in volutpat mauris. Vivamus euismod odio risus, id lobortis purus mattis quis. Mauris venenatis metus nec libero consequat porttitor. Vivamus in bibendum massa. Sed lorem neque, bibendum id nisi pretium, aliquet vulputate nisi.
+Phasellus ultrices cursus luctus.</description>
+    </item>
+    
+  </channel>
+</rss>
